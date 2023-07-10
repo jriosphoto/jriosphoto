@@ -1,4 +1,4 @@
-- 👋 Hi,I'm Jorge, an IT Professional 
+- 👋 Hi, I'm Jorge, an IT Professional 
 - 👀 I’m interested in Cloud Security 
 - 🌱 I’m currently learning Tech Sales|CompTIA Security+|CompTIA Network+|CompTIA Cloud+|
 - 💞️ I’m looking to collaborate any labs to get more experience

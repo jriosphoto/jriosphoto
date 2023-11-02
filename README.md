@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jorge, an Sr. Level <a href="https://www.linkedin.com/in/jorge-rios-11426614/">Project Manager</a>☺</h1>
+<h1>Hi, I'm Jorge, a Sr.<a href="https://www.linkedin.com/in/jorge-rios-11426614/">Project Manager</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
